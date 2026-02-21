@@ -5,8 +5,9 @@ Modern ve responsive bir web arayüz projesi.
 Bu proje HTML, CSS ve SCSS kullanılarak geliştirilmiştir.  
 Amaç; düzenli klasör yapısı, temiz kod organizasyonu ve sürdürülebilir stil mimarisi oluşturmaktır.
 
----
-
+--- 
+Projede destek ve eğitimlerinde verdikleri emek icin https://github.com/isveckrali ve [
+](https://github.com/Udemig)  eğitim platformuna teşekkür ediyorum.
 ## 📌 Project Overview
 
 digi.app.web, frontend geliştirme pratiği kapsamında oluşturulmuş bir arayüz çalışmasıdır.
